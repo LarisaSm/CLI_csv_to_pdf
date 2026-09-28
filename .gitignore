@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Сгенерированные PDF
+output/*.pdf
+
+# IDE / OS
+.DS_Store
+.vscode/
+.claude/

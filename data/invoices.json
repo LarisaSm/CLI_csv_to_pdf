@@ -1,0 +1,22 @@
+{
+  "invoices": [
+    {
+      "invoice_id": "JSN-100",
+      "customer": "Дмитрий Волков",
+      "date": "2026-09-25",
+      "items": [
+        {"name": "Веб-камера", "quantity": 1, "price": 3200},
+        {"name": "Микрофон", "quantity": 1, "price": 5400}
+      ]
+    },
+    {
+      "invoice_id": "JSN-101",
+      "customer": "ИП Соколова Е.В.",
+      "date": "2026-09-27",
+      "items": [
+        {"name": "Бумага A4, пачка", "quantity": 10, "price": 350},
+        {"name": "Картридж лазерный", "quantity": 2, "price": 4200}
+      ]
+    }
+  ]
+}
